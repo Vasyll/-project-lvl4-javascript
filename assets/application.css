@@ -1,9 +1,0 @@
-.nav-item .close,
-.nav-item .btn-rename {
-  opacity: 0;
-}
-
-.nav-item:hover .close,
-.nav-item:hover .btn-rename {
-  opacity: 1;
-}
